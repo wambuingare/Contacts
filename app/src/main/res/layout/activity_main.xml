@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvContacts"
+        android:id="@+id/ivcontacts"
         android:layout_width="409dp"
         android:layout_height="729dp"
         android:backgroundTint="#DD0D54"
